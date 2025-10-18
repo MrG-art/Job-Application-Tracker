@@ -1,4 +1,6 @@
-﻿// Jag importerar (using) biblioteket System för att komma åt klasser som Console och DateTime.
+// Teständring för Pull Request (Utveckling – JobManager)
+
+// Jag importerar (using) biblioteket System för att komma åt klasser som Console och DateTime.
 // Programmeringsord: using = importerar färdiga delar från C#-biblioteket.
 using System;
 
@@ -289,3 +291,4 @@ namespace JobTracker
         }
     }
 }
+
