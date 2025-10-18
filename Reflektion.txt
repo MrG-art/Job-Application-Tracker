@@ -1,0 +1,14 @@
+## Reflektion
+
+**Hur hjälpte LINQ mig att skriva renare kod?**  
+LINQ gjorde det mycket enklare att söka och filtrera bland mina jobbansökningar utan att behöva skriva flera loopar. Jag kunde skriva allt på en rad istället för många, 
+vilket gjorde koden både kortare och lättare att läsa.
+
+**Vilken del av projektet var mest utmanande, och hur löste jag den?**  
+Det svåraste var att förstå hur klasserna skulle samarbeta och hur jag kunde koppla ihop metoderna mellan dem. Jag löste det genom att testa mig fram, 
+läsa dokumentationen och diskutera med min AI. I slutändan så tyckte jag generellt att allt var lika utmanande på sitt sätt då det är väldigt mycket att hålla koll på.
+Det kunde kännas som att saker och ting var/är jätte komplicerade ibland samtidigt som vissa saker kändes/var enklare och mer tydligare att förstå.
+Jag förstår mig på mer hur allt hänger ihop och varför Saker och ting behövs i vissa situationer, men just att komma ihåg vart vilken specifik kod skall vara
+samt hur den skall skrivas eller se ut, det har jag lite problem med då allt blir som en står röra för mig i mina ögon samt uppe i hjärnan.
+I helhet så tyckte jag att allt gick bra till, men det skulle kunna gå bättre. När det kommer till Github så frågade jag min AI om hjälp då jag var osäker.
+Generellt sätt så känns ju Github enklare och hantera och lära sig än just Csharpe och kodning :)
