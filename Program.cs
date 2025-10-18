@@ -1,4 +1,6 @@
-﻿// Jag importerar (using) biblioteket System för att komma åt klasser som Console.
+// Teständring för Pull Request (Utveckling)
+
+// Jag importerar (using) biblioteket System för att komma åt klasser som Console.
 // Programmeringsord: using = importera färdiga delar från C#-biblioteket.
 using System;
 
@@ -121,3 +123,4 @@ internal class Program
         Console.ReadKey();
     }
 }
+
