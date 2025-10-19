@@ -7,8 +7,7 @@ LINQ gjorde det mycket enklare att söka och filtrera bland mina jobbansökninga
 Det svåraste var att förstå hur klasserna skulle samarbeta och hur jag kunde koppla ihop metoderna mellan dem. Jag löste det genom att testa mig fram, läsa dokumentationen och diskutera med min AI. I slutändan så tyckte jag generellt att allt var lika utmanande på sitt sätt då det är väldigt mycket att hålla koll på.
 Det kunde kännas som att saker och ting var/är jätte komplicerade ibland samtidigt som vissa saker kändes/var enklare och mer tydligare att förstå.
 
-Jag förstår mig på mer hur allt hänger ihop och varför Saker och ting behövs i vissa situationer, men just att komma ihåg vart vilken specifik kod skall vara
-samt hur den skall skrivas eller se ut, det har jag lite problem med då allt blir som en står röra för mig i mina ögon samt uppe i hjärnan.
+Jag förstår mig på mer hur allt hänger ihop och varför Saker och ting behövs i vissa situationer, men just att komma ihåg vart vilken specifik kod skall vara samt hur den skall skrivas eller se ut, det har jag lite problem med då allt blir som en står röra för mig i mina ögon samt uppe i hjärnan. Mina kommentarer kan även vara lite otydliga/röriga men jag försökte och skriva de så kort samt rent som möjligt för att det skall vara bekvämt för ögat och läsa.
 
 I helhet så tyckte jag att allt gick bra till, men det skulle kunna gå bättre. När det kommer till Github så frågade jag min AI om hjälp då jag var osäker. Generellt sätt så känns ju Github enklare och hantera och lära sig än just Csharpe och kodning.
 I slutändan så fick/har jag jätte ont i huvudet, nästan som migrän. Eftersom jag har försökt mig på och förstå alltihopa samt memorera alla dessa klasser koder osv. Jag får hoppas på att jag blir bättre tills imorn så att jag kan komma till lektionen. :)
